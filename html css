@@ -1,0 +1,192 @@
+prectical 27
+<!DOCTYPE html>
+<html>
+<head>
+    <title>prectical 27</title>
+       <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+     <style>
+        p {
+           text-align: center;
+        }
+    </style>
+
+    <h1>This include three type of css</h1>
+    <p style="color: rgb(7, 41, 115);  ">Such as internal</p>
+    <h2>Internal CSS , External CSS And Inline CSS</h2>
+    
+
+    <button onclick="alert('Welcome to my website')">
+        Click
+    </button>
+
+</body>
+</html>
+
+
+
+
+
+prectical 28
+<!DOCTYPE html>
+<html>
+<head>
+    <title>prectical 28</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(126, 204, 231);
+            padding: 20px;
+        }
+
+        ul {
+            background-color:lightseagreen;
+            padding: 20px 40px;
+            border-radius: 10px;
+            list-style-type: circle;
+        }
+
+        ol {
+            background-color: lightseagreen;
+            padding: 20px 40px;
+            border-radius: 10px;
+            list-style-type: upper-roman;
+        }
+
+        li {
+            color: rgb(4, 16, 4);
+            font-size: 18px;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <ol>
+        <li>Python</li>
+        <li>Machine Learning</li>
+        <li>AI</li>
+        <li>CSS</li>
+    </ol>
+
+    <ul>
+        <li>C</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Data</li>
+    </ul>
+</body>
+</html>
+
+
+
+
+
+body{
+    background-color: lightblue;
+     }
+ h1 {
+    color: red; font-style: oblique; 
+     }
+h2 {
+    color: darkblue; font-style: initial;
+    }
+p {
+    align-items:center;
+    }
+
+
+
+
+div tage use practical 30
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>prectical 30</title>
+      <style>
+        body{
+            background-color: rgb(135, 216, 216);
+        }
+        .box1 {
+            background: yellow; width:190px;border-radius: 10px; text-align: center; margin: auto; border: 2px solid red; padding: 10px; margin-bottom: 15px;
+        }
+        .box2 {
+            background: yellow; width: 286px;px;border-radius: 10px; text-align: center; margin: auto; border: 4px dashed red; padding: 15px; margin-bottom: 15px;
+        }
+        .box3 {
+            background: yellow; width: 286px;px;border-radius: 10px; text-align: center; margin: auto; border: 6px dotted red; padding: 20px;
+        }
+      </style>
+</head>
+
+<body>
+
+    <div class="box1">Such as internal prectical 29</div>
+    <div class="box2">Internal CSS , External CSS And Inline CSS</div> 
+    <div class="box3">Internal CSS , External CSS And Inline CSS</div>   
+
+  
+
+</body>
+</html>
+
+
+practical 29
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>prectical 28</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(126, 204, 231);
+            padding: 20px;
+        }
+
+        ul {
+            background-color:lightseagreen;
+            padding: 20px 40px;
+            border-radius: 10px;
+            list-style-type: circle;
+        }
+
+        ol {
+            background-color: lightseagreen;
+            padding: 20px 40px;
+            border-radius: 10px;
+            list-style-type: upper-roman;
+        }
+
+        li {
+            color: rgb(4, 16, 4);
+            font-size: 18px;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <ol>
+        <li>Python</li>
+        <li>Machine Learning</li>
+        <li>AI</li>
+        <li>CSS</li>
+    </ol>
+
+    <ul>
+        <li>C</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>Data</li>
+    </ul>
+</body>
+</html>
